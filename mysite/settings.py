@@ -25,7 +25,7 @@ SECRET_KEY = 's%^yo_cz$+8uo&#tyy-rsr8nhhjje-2g$c$nqbckv8#s#m2*ao'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Ksesha>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'ksesha.pythonanywhere.com']
 
 
 # Application definition
